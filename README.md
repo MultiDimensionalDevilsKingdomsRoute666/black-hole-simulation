@@ -17,7 +17,9 @@ _Explore the mysteries of spacetime through cutting-edge visualization_
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
-[🚀 Live Demo](http://localhost:5173) • [📖 Documentation](#-table-of-contents) • [🐛 Report Bug](https://github.com/your-repo/issues) • [✨ Request Feature](https://github.com/your-repo/issues)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@christianmatabaro92/building-a-real-time-black-hole-simulation-physics-webgl-typescript-and-react-b8675322cde2)
+
+[🚀 Live Demo](https://black-hole-simulation-by-chris-mat.vercel.app/) • [📖 Documentation](#-table-of-contents) • [🐛 Report Bug](https://github.com/chrismatgit/black-hole-simulation/issues) • [✨ Request Feature](https://github.com/chrismatgit/black-hole-simulation/issues) • [📝 Article on Medium](https://medium.com/@christianmatabaro92/building-a-real-time-black-hole-simulation-physics-webgl-typescript-and-react-b8675322cde2)
 
 ![Black Hole Simulation](/screenshot/image.png)
 
@@ -44,7 +46,7 @@ _Explore the mysteries of spacetime through cutting-edge visualization_
 
 ## 🌟 Features
 
-A physics-based black hole simulation built with React, TypeScript, Three.js, and WebGL shaders, showcasing relativistic effects including gravitational lensing and accretion disk dynamics.
+A physics-based black hole simulation built with React, TypeScript, Three.js, and WebGL shaders, showcasing relativistic effects including gravitational lensing and accretion disk dynamics. Here are the live demo links hosted on [GitHub pages](https://chrismatgit.github.io/black-hole-simulation/) and [Vercel](https://black-hole-simulation-by-chris-mat.vercel.app/). Please read my [Medium](https://medium.com/@christianmatabaro92/building-a-real-time-black-hole-simulation-physics-webgl-typescript-and-react-b8675322cde2) article for further explanation.
 
 ### ✨ Core Features
 
@@ -446,7 +448,7 @@ SOFTWARE.
 
 ### 🌟 Original Work
 
-- **Chris Matabaro** - Original black hole simulation implementation
+- [**Chris Matabaro**](https://www.linkedin.com/in/chris-matabaro/) - Original black hole simulation implementation
 - **Three.js Community** - 3D graphics framework and ecosystem
 - **WebGL Specification** - Graphics API standards
 
